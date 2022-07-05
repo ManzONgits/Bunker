@@ -1,4 +1,4 @@
-![WARNING LABEL](https://raw.githubusercontent.com/JavaScythe/Bunker/main/tao4tmdfkoad.png, "WARNING")
+![WARNING LABEL](https://raw.githubusercontent.com/JavaScythe/Bunker/main/tao4tmdfkoad.png "WARNING")
 ### OFFICIAL BUNKER RELEASE REPO
 #### CONTRIBUTERS
 - JavaScythe: Main (and not the only) developer
