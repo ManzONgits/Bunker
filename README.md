@@ -28,7 +28,7 @@ Bunker is made by the MSG team (JavaScythe 90%) and some others. This software i
 
 ### LICENSE
 
-BUNKER (Bünker) (Bunker) (bunker) v2.1-beta
+BUNKER (Bünker) (Bunker) (bunker) v7-beta
 
 GoGuardian-Proof Privacy: For Everyone
 
