@@ -1,5 +1,6 @@
-![WARNING LABEL](https://raw.githubusercontent.com/JavaScythe/Bunker/main/tao4tmdfkoad.png "WARNING")
 ### OFFICIAL BUNKER RELEASE REPO
+### NOTE:
+Bunker is discontinued. A new exploit may be made by our team, or we will continue on to other things, thanks for supporting this project. Bunker v7-beta and below will remain open source as per license
 #### CONTRIBUTERS
 - JavaScythe: Main (and not the only) developer
 - Cattn: HTML + CSS + some js (I make the site look good (or bad depending on how you see it))
