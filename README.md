@@ -1,6 +1,6 @@
 ### OFFICIAL BUNKER RELEASE REPO
 ### NOTE:
-Bunker is discontinued. A new exploit may be made by our team, or we will continue on to other things, thanks for supporting this project. Bunker v7-beta and below will remain open source as per license
+Bunker is being re-designed from the ground up in a new, modernized way! Check it out here: [Bunker v1](https://github.com/Math-Study/bunker-v1/releases/tag/v0.1)
 #### CONTRIBUTERS
 - JavaScythe: Main (and not the only) developer
 - Cattn: HTML + CSS + some js (I make the site look good (or bad depending on how you see it))
