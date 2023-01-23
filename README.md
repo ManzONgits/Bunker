@@ -1,43 +1,9 @@
-### OFFICIAL BUNKER RELEASE REPO
-### NOTE:
-Bunker is being re-designed from the ground up in a new, modernized way! Check it out here: [Bunker v1](https://github.com/Math-Study/bunker-v1/releases/tag/v0.1)
-#### CONTRIBUTERS
-- JavaScythe: Main (and not the only) developer
-- Cattn: HTML + CSS + some js (I make the site look good (or bad depending on how you see it))
-### INSTALLATION
-# A Guide For _Bunker_
-### written animecat7
-```
-*This is UNOFFICIAL, and may break with future updates*
-```
-### Let The Guide(s) Begin!
+# [NEW BUNKER IN DEVELOPMENT](https://github.com/JavaScythe/bnkr-pro)
+### OFFICIAL BUNKER RELEASE REPOSITORY
 
-1.) This is the small slide demo thingy I made to demonstrate on how you install:
+Bunker still works, it's just old and abandoned.
 
-[How To Install -the PDF](https://github.com/JavaScythe/Bunker/files/8796075/Untitled.Jam.1.pdf)
-
-2.)This is the video that wouldn't load in the slides so I moved it out here:
-<sub>im using the glitch cdn. pls dont hate me</sub>
-
-[Video -bad quality,sry](https://cdn.glitch.global/d0afa14c-637b-4c3f-a808-0655ff6a3ca6/Screen%20recording%202022-05-29%2011.23.01%20PM%20(online-video-cutter.com)%20(1).mp4?v=1653895029585)
-
-***
-***
-
-### INFO
-Bunker is made by the MSG team (JavaScythe 90%) and some others. This software is open source and able to be copied, we ask that you simple suggest us ideas as it will be easier for you, and will help more people!
-
-### LICENSE
-
-BUNKER (Bünker) (Bunker) (bunker) v7-beta
-
-GoGuardian-Proof Privacy: For Everyone
-
-GitHub Repositiory: https://github.com/Cattn/Bunker
-
-GitHub Profile: https://github.com/JavaScythe
-
-GitHub Profile: https://github.com/Cattn
+### License
 
 This work is licensed under the MIT LICENSE
 
